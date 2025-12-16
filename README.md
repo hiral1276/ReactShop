@@ -63,7 +63,7 @@ A fully responsive React e-commerce application featuring product listing, cart 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/ReactShop.git
+git clone https://github.com/hiral1276/ReactShop.git
 cd ReactShop/frontend
 ```
 
@@ -93,13 +93,13 @@ The optimized production build will be in the `frontend/build` directory.
 ## 📁 Project Structure
 
 ```
-ReactShop/                  ← Main folder you'll upload to GitHub
-├── frontend/               ← Your complete React application
+ReactShop/                  ← Main folder 
+├── frontend/               ← complete React application
 │   ├── plugins/            ← (Shadcn-related or empty — harmless)
 │   ├── public/             ← Static files: index.html, favicon, etc.
-│   ├── src/                ← All your source code: components, pages, App.js, mockData.js, styles, etc.
+│   ├── src/                ← All source code: components, pages, App.js, mockData.js, styles, etc.
 │   ├── components.json     ← Shadcn/ui configuration
-│   ├── craco.config.js     ← Required for Tailwind + CRA
+│   ├── craco.config.js     ← for Tailwind + CRA
 │   ├── postcss.config.js   ← Tailwind requirement
 │   ├── tailwind.config.js  ← Tailwind theme config
 │   ├── package.json        ← Dependencies and scripts

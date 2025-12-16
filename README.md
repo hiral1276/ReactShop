@@ -32,6 +32,7 @@ A fully responsive React e-commerce application featuring product listing, cart 
 ![Mobile Homepage](frontend/screenshots/homepage-mobile.png)
 .
 ![Mobile Search & Filter](frontend/screenshots/filter-mobile.png)
+
 .
 ![Mobile Cart](frontend/screenshots/cart-mobile.png)
 

@@ -21,19 +21,19 @@ A fully responsive React e-commerce application featuring product listing, cart 
 ## Screenshots
 
 ### Desktop View
-![Homepage](screenshots/homepage-desktop.png) 
+![Homepage](frontend/screenshots/homepage-desktop.png) 
 
-![Search & Filter](screenshots/filter-desktop.png) 
+![Search & Filter](frontend/screenshots/filter-desktop.png) 
 
-![Shopping Cart](screenshots/cart-desktop.png)
+![Shopping Cart](frontend/screenshots/cart-desktop.png)
 
 ### Mobile View
 
-![Mobile Homepage](screenshots/homepage-mobile.png)
+![Mobile Homepage](frontend/screenshots/homepage-mobile.png)
 
-![Mobile Search & Filter](screenshots/filter-mobile.png)
+![Mobile Search & Filter](frontend/screenshots/filter-mobile.png)
 
-![Mobile Cart](screenshots/cart-mobile.png)
+![Mobile Cart](frontend/screenshots/cart-mobile.png)
 
 *Fully responsive design with mobile-first approach*
 

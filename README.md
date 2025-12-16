@@ -205,3 +205,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - Email: hiralmokariya12@gmail.com
 
 **Built with ❤️ using React**
+
+# ReactShop - Responsive E-Commerce Product Page

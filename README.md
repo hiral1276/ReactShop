@@ -205,5 +205,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Built with ❤️ using React**
 
-# R e a c t S h o p - R e s p o n s i v e  E - C o m m e r c e  P r o d u c t  P a g e
 

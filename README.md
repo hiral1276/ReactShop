@@ -109,6 +109,7 @@ ReactShop/                  ← Main folder
 │   └── .gitignore          ← Prevents uploading junk
 │   
 ├── .gitignore              ← Root-level gitignore
+├── LICENCE
 └── README.md
 ```
 
